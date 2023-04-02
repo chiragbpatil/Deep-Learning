@@ -1,0 +1,8 @@
+mlflow
+idx2numpy
+scikit-learn
+tensorflow==2.10.0
+opencv-python==4.6.0.66
+streamlit==1.14.0
+streamlit-drawable-canvas==0.9.2
+protobuf==3.20.*
